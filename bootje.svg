@@ -16,7 +16,7 @@
     <use xlink:href="#Porthole" x="675" y="50" />
     <!-- The name of this beautiful ship -->
     <text id="Bootje" font-family="Zapfino" font-size="25" fill="#FFFFFF">
-      <tspan x="75" y="247">Bootje</tspan>
+      <tspan x="75" y="247">Bootje!</tspan>
     </text>
   </g>
 </svg>
