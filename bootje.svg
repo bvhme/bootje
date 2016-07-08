@@ -4,18 +4,19 @@
   <desc>A little bootje as an example</desc>
   <defs>
     <g id="Porthole" stroke="#8B572A" stroke-width="20" fill="#2095F2">
-      <circle id="Oval-1" cx="55.5" cy="55.5" r="55.5"></circle>
+      <circle id="Oval-1" cx="55.5" cy="40" r="40"></circle>
     </g>
   </defs>
   <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
     <!-- the hull of the Bootje has this shape because of the size of the portholes -->
     <polygon id="Hull" fill="#5A300A" points="0 200 200 200 300 0 800 0 900 200 1000 200 900 400 100 400"></polygon>
     <use xlink:href="#Porthole" x="300" y="50" />
-    <use xlink:href="#Porthole" x="475" y="50" />
-    <use xlink:href="#Porthole" x="650" y="50" />
+    <use xlink:href="#Porthole" x="425" y="50" />
+    <use xlink:href="#Porthole" x="550" y="50" />
+    <use xlink:href="#Porthole" x="675" y="50" />
     <!-- The name of this beautiful ship -->
     <text id="Bootje" font-family="Zapfino" font-size="25" fill="#FFFFFF">
-      <tspan x="75" y="247">Bootje</tspan>
+      <tspan x="75" y="247">Bootje!</tspan>
     </text>
   </g>
 </svg>
