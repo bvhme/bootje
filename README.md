@@ -2,4 +2,4 @@
 
 👩‍🔬
 
-Example SVG repo and repo I use to test things, sometimes
+Example SVG repo and repo I use to test things, sometimes. And I like it.
